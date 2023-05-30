@@ -1,0 +1,8 @@
+./client
+./Dockerfile
+./LICENSE
+./README.md
+./.github
+./.gitignore
+./.git
+./dockerignore
